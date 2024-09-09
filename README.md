@@ -1,7 +1,8 @@
 <h1 align="center">causas DYGXD</h1>
 <h3 align="center">SI</h3>
-![images](https://github.com/user-attachments/assets/b38c56da-600a-4a75-9237-a38cec719999)
+
 <h3 align="left">Connect with me:</h3>
+![images](https://github.com/user-attachments/assets/b38c56da-600a-4a75-9237-a38cec719999)
 <p align="left">
 </p>
 
