@@ -1,10 +1,10 @@
 <h1 align="center">causas DYGXD</h1>
 <h3 align="center">SI</h3>
-
+![51kvZCz0WwL _AC_UF894,1000_QL80_](https://github.com/user-attachments/assets/81229543-047e-4358-ab38-d9b37eb3cd71)
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-![51kvZCz0WwL _AC_UF894,1000_QL80_](https://github.com/user-attachments/assets/81229543-047e-4358-ab38-d9b37eb3cd71)
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
