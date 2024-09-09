@@ -2,9 +2,9 @@
 <h3 align="center">SI</h3>
 
 <h3 align="left">Connect with me:</h3>
-![images](https://github.com/user-attachments/assets/b38c56da-600a-4a75-9237-a38cec719999)
+
 <p align="left">
-  ![images](https://github.com/user-attachments/assets/b38c56da-600a-4a75-9237-a38cec719999)
+![51kvZCz0WwL _AC_UF894,1000_QL80_](https://github.com/user-attachments/assets/81229543-047e-4358-ab38-d9b37eb3cd71)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
